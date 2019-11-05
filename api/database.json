@@ -1,27 +1,78 @@
 {
-  "posts": [
+  "contacts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "name": "Susan Matthews",
+      "phoneNumber": "615-847-5253",
+      "email": "SmCatLady@gmail.com",
+      "interests": [
+        "parasailing",
+        "lifeguarding",
+        "fly-fishing",
+        "auto-maintainence"
+      ],
+      "id": 1
     },
     {
-      "id": 2,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "name": "Banksy Malone",
+      "phoneNumber": "773-892-5481",
+      "email": "WhoisBanksyMalone@gmail.com",
+      "interests": [
+        "crime",
+        "film noir",
+        "punctuating sentences with the word 'See?'",
+        "Scorese"
+      ],
+      "id": 2
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "Vera Dakota",
+      "phoneNumber": "615-472-8347",
+      "email": "TheRealDakota@yahoo.com",
+      "interests": [
+        "horseback-riding",
+        "writing",
+        "stand up",
+        "murder mysteries"
+      ],
+      "id": 3
+    },
+    {
+      "name": "Depok Oprah",
+      "phoneNumber": "615-795-4382",
+      "email": "boyband57@aol.com",
+      "interests": [
+        "self-help-guruing",
+        "orating",
+        "writing",
+        "viola"
+      ],
+      "id": 4
+    },
+    {
+      "name": "Melody",
+      "phoneNumber": "6158388188",
+      "email": "melliemuse@gmail.com",
+      "interests": "astronomy, astrology, etymology",
+      "id": 11
+    },
+    {
+      "name": "Melody",
+      "phoneNumber": "6158388188",
+      "email": "melliemuse@gmail.com",
+      "interests": "astronomy, astrology, etymology",
+      "id": 12
+    },
+    {
+      "name": "Jolene",
+      "phoneNumber": "6158388188",
+      "email": "pleasedonttakemyman@sadness.com",
+      "id": 13
+    },
+    {
+      "name": "Gremlins",
+      "phoneNumber": "847-983-4349",
+      "email": "waterus@aol.com",
+      "id": 14
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "contacts": [{
-    
-  }]
+  ]
 }
