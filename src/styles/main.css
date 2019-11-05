@@ -1,0 +1,8 @@
+form > label {
+    margin-top: 10px;
+    display: block;
+}
+button {
+    margin-top: 10px;
+    display: block;
+}
